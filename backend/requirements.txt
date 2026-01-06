@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+# AI Model Libraries (Uncomment to install heavy dependencies)
+# torch
+# transformers
+# accelerate
+# qwen-vl-utils
+# pillow
